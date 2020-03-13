@@ -1,12 +1,35 @@
-body {
-    background-color: white;
-}
-h1 { 
-   background-color: lightblue;
-   color: black;
-   text-align: center;
-}
-p {
-    text-align: left; 
-    color: green;
-}
+
+    body {
+      background-color: white;
+     }
+     h1 { 
+      background-color: rgb(27, 84, 190);
+      color: black;
+      text-align: center;
+     }
+     p {
+      text-align: left; 
+      color: black;
+     }
+     h3 {
+      color: rgb(17, 15, 13);
+      text-align: center;
+      background-color: rgb(99, 124, 170)
+     }
+     li{
+         color:black;
+     }
+     h2{
+         color: rgb(17, 15, 13);
+         background-color: rgb(99, 124, 170);
+         text-align: center;
+     }
+         p.Bild{width:60%}
+
+         strong.aufzaehlung {
+             display: inline-block;
+width: 5em;
+
+
+         }
+         
